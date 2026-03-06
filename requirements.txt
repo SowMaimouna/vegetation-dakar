@@ -1,0 +1,7 @@
+earthengine-api
+geemap
+numpy
+pandas
+matplotlib
+folium
+dotenv
